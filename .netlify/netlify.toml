@@ -1,0 +1,29 @@
+functionsDirectory = "C:\\webdevop\\JS\\PROJECTS\\7.myinteractive\\netlify\\functions"
+functionsDirectoryOrigin = "ui"
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\webdevop\\JS\\PROJECTS\\7.myinteractive"
+publishOrigin = "config"
+base = "C:\\webdevop\\JS\\PROJECTS\\7.myinteractive"
+functions = "C:\\webdevop\\JS\\PROJECTS\\7.myinteractive\\netlify\\functions"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
